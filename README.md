@@ -2,7 +2,7 @@
 
 Project 2019
 Programming for Data Analysis
-For this project students must create a dataset by simluating a real-world phenomenon of their choosing. They may pikc any phenomeon they wish. Then, rather than collect the data related to the phenomenon, they should model and synthesise such data using Python using the numpy.random package for this purpose.
+For this project students must create a dataset by simluating a real-world phenomenon of their choosing. They may pick any phenomeon they wish. Then, rather than collect the data related to the phenomenon, they should model and synthesise such data using Python using the numpy.random package for this purpose.
 
 Students should:
 
